@@ -12,8 +12,6 @@ Airbnb is a company founded in 2008 that provides an online platform for people 
 * Tableau: Data Visualization
 
 ## Results
-Due to the limitations of GitHub, you can download the excel files from this [Google Drive link](https://drive.google.com/drive/folders/1nYoGvTirGfiSJ1rieokX-npsr6AmnbWC?usp=sharing) (200 mb)
-
 ![Airbnb Dashboard](https://user-images.githubusercontent.com/116041695/230583796-3f9ec044-4b98-44ff-87b3-381b27e1f44a.png)
 
 [https://public.tableau.com/app/profile/karen.judelyn.fernandes](https://public.tableau.com/app/profile/karen.judelyn.fernandes/viz/AirbnbDashboard_16806756909830/Dashboard)
