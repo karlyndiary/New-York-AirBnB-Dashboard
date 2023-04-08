@@ -34,6 +34,8 @@ The bar chart illustrates the number of room types in Airbnb, Seattle. There are
 
 ### Availability in each neighbourhood on Dec 25th
 
+The horizontal chart shows us the many neighbourhoods that are available to book on December 25th. The top most neighbourhood is the University District with 69 airbnb's that can be booked for Christmas. Few of the many neighbourhoods that have very less airbnb's and are available to book are Roxhill and Harbour Island.
+
 ### Average Price for 2022
 
 ### Host residing in the same area as the airbnb neighbourhood
