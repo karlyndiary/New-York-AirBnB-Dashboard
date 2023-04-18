@@ -20,22 +20,22 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 
 ## Insights
 
-### The Average Price of Top 5 and Bottom 5 neighbourhoods. 
+- The Average Price of Top 5 and Bottom 5 neighbourhoods. 
 
 The bar chart shows use the average prices of both top 5 and neighbourhoods. We also see that there is a average price gap between these area of more or less $200 in the top 5 neighbourhoods while in the bottom 5 neighbourhoods, we see only a slight difference in the average price between each neighbourhood.
 
-### Neighbourhood Average Price vs No of Baths & Beds
+- Neighbourhood Average Price vs No of Baths & Beds
 
 The bar chart illustrates the number of both beds and baths in each neighbourhood. 
 
-### Total number of room types
+- Total number of room types
 
 The bar chart illustrates the number of room types in Airbnb, Seattle. There are three types of rooms: entire home/apartment, private room and shared rooms. The most significant number of room types is entire homes/apartments (86.01%), followed by private rooms (13.85%), shared rooms (0.14%), which is the smallest room type. It is safe to assume that Airbnb, in Seattle, derives most of its revenue across entire home/apartment types.
 
-### Availability in each neighbourhood on Dec 25th
+- Availability in each neighbourhood on Dec 25th
 
 The horizontal chart shows us the many neighbourhoods that are available to book on December 25th. The top most neighbourhood is the University District with 69 airbnb's that can be booked for Christmas. Few of the many neighbourhoods that have very less airbnb's and are available to book are Roxhill and Harbour Island.
 
-### Average Price for 2022
+- Average Price for 2022
 
-### Host residing in the same area as the airbnb neighbourhood
+- Host residing in the same area as the airbnb neighbourhood
