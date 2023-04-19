@@ -24,11 +24,11 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 
 The bar chart presents a comparison of the average prices in the top 5 and bottom 5 neighborhoods. It reveals that there is a significant price difference of approximately $200 among the top 5 neighborhoods, whereas the bottom 5 neighborhoods show only slight variations in their average prices.
 
-- Neighbourhood Average Price vs No of Baths & Beds
+- The Comparison between the Neighbourhood's Average Price and the Total no of Baths & Beds
 
-The bar chart illustrates the number of both beds and baths in each neighbourhood. 
+The bar chart presents data on the number of beds and baths in different neighborhoods, and reveals an interesting trend. Surprisingly, it shows that listings with 1 bath and 1 bed are priced slightly higher than those with 1.5 baths and 1 bed, whereas listings with 2 beds show a gradual increase in price with an increase in the number of baths. This indicates that the relationship between beds, baths, and pricing may not follow a linear pattern, as listings with different bed and bath combinations may have varying pricing structures across neighborhoods.
 
-- Total number of room types
+- Total number of Room Types
 
 The bar chart provides a visual representation of the distribution of room types available on Airbnb in Seattle. The data shows that the majority of room types are entire homes/apartments, accounting for 86.01% of the listings. Private rooms make up 13.85% of the listings, while shared rooms constitute a minimal portion at 0.14%. This suggests that Airbnb in Seattle generates the most revenue from entire home/apartment listings, which are the most prevalent room type.
 
