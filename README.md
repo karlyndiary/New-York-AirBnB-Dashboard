@@ -17,7 +17,7 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 
 [https://public.tableau.com/app/profile/karen.judelyn.fernandes](https://public.tableau.com/app/profile/karen.judelyn.fernandes/viz/AirbnbDashboard_16806756909830/Dashboard)
 
-![Airbnb Dashboard](https://user-images.githubusercontent.com/116041695/232972454-e5178ffd-44df-41d8-a868-8e767dd62569.png)
+![Airbnb Dashboard](https://user-images.githubusercontent.com/116041695/232975222-c933dd6e-7bce-4c30-b788-647b0f9ac9ab.png)
 
 ## Insights
 
