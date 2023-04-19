@@ -19,9 +19,6 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 
 ![Airbnb Dashboard](https://user-images.githubusercontent.com/116041695/232972454-e5178ffd-44df-41d8-a868-8e767dd62569.png)
 
-![Airbnb Dashboard (1)](https://user-images.githubusercontent.com/116041695/232972778-90a3ec68-667f-4102-be85-e3e2aef9dd9b.png)
-
-
 ## Insights
 
 - The Average Price of Top 5 and Bottom 5 neighbourhoods. 
