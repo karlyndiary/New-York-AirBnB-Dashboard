@@ -22,7 +22,7 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 
 - The Average Price of Top 5 and Bottom 5 neighbourhoods. 
 
-The bar chart shows use the average prices of both top 5 and neighbourhoods. We also see that there is a average price gap between these area of more or less $200 in the top 5 neighbourhoods while in the bottom 5 neighbourhoods, we see only a slight difference in the average price between each neighbourhood.
+The bar chart presents a comparison of the average prices in the top 5 and bottom 5 neighborhoods. It reveals that there is a significant price difference of approximately $200 among the top 5 neighborhoods, whereas the bottom 5 neighborhoods show only slight variations in their average prices.
 
 - Neighbourhood Average Price vs No of Baths & Beds
 
@@ -30,7 +30,7 @@ The bar chart illustrates the number of both beds and baths in each neighbourhoo
 
 - Total number of room types
 
-The bar chart illustrates the number of room types in Airbnb, Seattle. There are three types of rooms: entire home/apartment, private room and shared rooms. The most significant number of room types is entire homes/apartments (86.01%), followed by private rooms (13.85%), shared rooms (0.14%), which is the smallest room type. It is safe to assume that Airbnb, in Seattle, derives most of its revenue across entire home/apartment types.
+The bar chart provides a visual representation of the distribution of room types available on Airbnb in Seattle. The data shows that the majority of room types are entire homes/apartments, accounting for 86.01% of the listings. Private rooms make up 13.85% of the listings, while shared rooms constitute a minimal portion at 0.14%. This suggests that Airbnb in Seattle generates the most revenue from entire home/apartment listings, which are the most prevalent room type.
 
 - Availability in each neighbourhood on Dec 25th
 
