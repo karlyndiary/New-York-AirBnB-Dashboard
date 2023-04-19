@@ -39,4 +39,6 @@ The horizontal chart displays the availability of Airbnb listings in various nei
 
 - Average Price for 2022
 
+The highest average prices are observed in July, which corresponds to the summer season in Seattle. This could be attributed to increased demand for bookings during the peak summer vacation period. On the other hand, the lowest average prices are recorded in January, which is the coldest month in Seattle. Interestingly, this trend is consistent for both entire homes/apartments and private rooms. However, when it comes to shared rooms, there is no variation in the average price throughout the year.
+
 - Host residing in the same area as the airbnb neighbourhood
