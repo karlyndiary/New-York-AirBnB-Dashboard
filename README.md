@@ -17,7 +17,8 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 
 [https://public.tableau.com/app/profile/karen.judelyn.fernandes](https://public.tableau.com/app/profile/karen.judelyn.fernandes/viz/AirbnbDashboard_16806756909830/Dashboard)
 
-![Airbnb Dashboard](https://user-images.githubusercontent.com/116041695/232953326-51405980-fe59-4aa4-a9a8-7c965cdaae53.png)
+![Airbnb Dashboard](https://user-images.githubusercontent.com/116041695/232972454-e5178ffd-44df-41d8-a868-8e767dd62569.png)
+
 
 ## Insights
 
@@ -42,3 +43,9 @@ The horizontal chart displays the availability of Airbnb listings in various nei
 The highest average prices are observed in July, which corresponds to the summer season in Seattle. This could be attributed to increased demand for bookings during the peak summer vacation period. On the other hand, the lowest average prices are recorded in January, which is the coldest month in Seattle. Interestingly, this trend is consistent for both entire homes/apartments and private rooms. However, when it comes to shared rooms, there is no variation in the average price throughout the year.
 
 - Host residing in the same area as the airbnb neighbourhood
+
+The Belltown area has the highest number of Airbnb hosts who reside in the neighborhood, with a total of 22 hosts. In contrast, the East Queen Anne area has a relatively lower number of hosts, with 10 hosts residing in the neighborhood.
+
+- Top 10 Hosts with the most reviews
+
+Blueground has received the highest number of reviews among all hosts, totaling 5460 reviews. On the other hand, Jian has received the least number of reviews with a total of 270 reviews.
