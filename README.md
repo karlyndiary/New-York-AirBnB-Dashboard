@@ -34,7 +34,7 @@ The bar chart provides a visual representation of the distribution of room types
 
 - Availability in each neighbourhood on Dec 25th
 
-The horizontal chart shows us the many neighbourhoods that are available to book on December 25th. The top most neighbourhood is the University District with 69 airbnb's that can be booked for Christmas. Few of the many neighbourhoods that have very less airbnb's and are available to book are Roxhill and Harbour Island.
+The horizontal chart displays the availability of Airbnb listings in various neighborhoods on December 25th. The University District stands out as the neighborhood with the highest number of available listings, totaling 69 for Christmas bookings. On the other hand, neighborhoods like Roxhill and Harbour Island have considerably fewer Airbnb listings available for booking on that date, indicating limited availability in these areas.
 
 - Average Price for 2022
 
