@@ -18,10 +18,12 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 
 ### Pre-Processing
 - The neighbourhood dataset has the headers in the data fields -> select row 1 -> Transform tab -> Click Use first row as headers
-- Remove neighbourhood_group and license column as it is empty
+- Remove the neighbourhood_group and license columns as it is empty
 - Adding new columns: Extracting information from the name column
-    - bedrooms, beds, baths, reviews: Duplicate the column -> Transform tab -> Extract -> Text between delimiters -> Rename the column
-    - reviews - Repeat the same for the star as well  
+    - bedrooms, beds, baths, reviews: Duplicate the column ->
+        - Transform tab -> Extract -> Text between delimiters -> Rename the column [or]
+        - Transform tab -> Split column -> By Delimiter -> Rename the columns
+    - reviews - Repeat the same for the star as well
 
 ## Dashboard
 
