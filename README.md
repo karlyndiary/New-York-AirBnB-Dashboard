@@ -26,7 +26,8 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
     - reviews - Repeat the same for the star as well
 - Check the data types
 - Remove nulls and blanks
-- 
+- Transforming beds and baths to decimal columns from texts
+
 ## Dashboard
 
 [https://public.tableau.com/app/profile/karen.judelyn.fernandes](https://public.tableau.com/app/profile/karen.judelyn.fernandes/viz/AirbnbDashboard_16806756909830/Dashboard)
