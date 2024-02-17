@@ -24,7 +24,9 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
         - Transform tab -> Extract -> Text between delimiters -> Rename the column [or]
         - Transform tab -> Split column -> By Delimiter -> Rename the columns
     - reviews - Repeat the same for the star as well
-
+- Check the data types
+- Remove nulls and blanks
+- 
 ## Dashboard
 
 [https://public.tableau.com/app/profile/karen.judelyn.fernandes](https://public.tableau.com/app/profile/karen.judelyn.fernandes/viz/AirbnbDashboard_16806756909830/Dashboard)
