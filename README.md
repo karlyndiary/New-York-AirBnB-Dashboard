@@ -10,9 +10,15 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 [http://insideairbnb.com/get-the-data/](http://insideairbnb.com/get-the-data/)
 
 ## Tool used
-* Tableau: Data Visualization
+* Microsoft Power BI: Pre-Processing and Data Visualization
 
-Get data -> All -> Folder -> Path leading to the folder dataset
+### Steps to import data as a folder
+1. Get data -> More -> All -> Folder -> Connect -> Path leading to the folder dataset -> Click ok
+2. Click on transform data -> Duplicate the file -> Click on Binary to expand the dataset (Repeat the set for the no of datasets)
+
+### Pre-Processing
+- The neighbourhood dataset has the headers in the data fields -> select row 1 -> Transform tab -> Click Use first row as headers
+
 ## Dashboard
 
 [https://public.tableau.com/app/profile/karen.judelyn.fernandes](https://public.tableau.com/app/profile/karen.judelyn.fernandes/viz/AirbnbDashboard_16806756909830/Dashboard)
