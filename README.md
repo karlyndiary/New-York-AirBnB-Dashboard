@@ -7,12 +7,12 @@ This is a 2022 analysis of the Airbnb dataset in Seattle. The analysis aims to u
 Airbnb is an immensely popular global platform that was established in 2008. It offers individuals the opportunity to rent out their properties, including homes and apartments, to travellers who need accommodation. Hosts have the freedom to list their space, set prices and availability, and directly communicate with potential guests. Travelers, on the other hand, can search for suitable accommodations based on their preferences, location, and budget. This innovative service provides a more affordable and convenient alternative to conventional hotels, while also enabling travelers to experience local communities and neighbourhoods uniquely. With millions of listings in over 220 countries and regions, Airbnb has revolutionized the travel industry.
 
 ## Dataset Source
-
 [http://insideairbnb.com/get-the-data/](http://insideairbnb.com/get-the-data/)
 
 ## Tool used
 * Tableau: Data Visualization
 
+Get data -> All -> Folder -> Path leading to the folder dataset
 ## Dashboard
 
 [https://public.tableau.com/app/profile/karen.judelyn.fernandes](https://public.tableau.com/app/profile/karen.judelyn.fernandes/viz/AirbnbDashboard_16806756909830/Dashboard)
