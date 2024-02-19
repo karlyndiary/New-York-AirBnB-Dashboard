@@ -12,6 +12,10 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 ## Tool used
 * Microsoft Power BI: Pre-Processing and Data Visualization
 
+## Data Modelling
+![Airbnb drawio](https://github.com/karlyndiary/Airbnb-Tableau-Dashboard/assets/116041695/98fba150-dd43-4057-b950-d93ec33ec8ad)
+
+
 ### Steps to import data as a folder
 1. Get data -> More -> All -> Folder -> Connect -> Path leading to the folder dataset -> Click ok
 2. Click on transform data -> Duplicate the file -> Click on Binary to expand the dataset (Repeat the set for the no of datasets)
