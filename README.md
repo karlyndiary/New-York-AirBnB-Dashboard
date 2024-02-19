@@ -12,9 +12,8 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 ## Tool used
 * Microsoft Power BI: Pre-Processing and Data Visualization
 
-## Data Modelling
+## Data Model
 ![Airbnb drawio](https://github.com/karlyndiary/Airbnb-Tableau-Dashboard/assets/116041695/98fba150-dd43-4057-b950-d93ec33ec8ad)
-
 
 ### Steps to import data as a folder
 1. Get data -> More -> All -> Folder -> Connect -> Path leading to the folder dataset -> Click ok
@@ -22,7 +21,7 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 
 ### Pre-Processing
 - The neighbourhood dataset has the headers in the data fields -> select row 1 -> Transform tab -> Click Use first row as headers
-- Remove the neighbourhood_group and license columns as it is empty
+- Remove the license column as it is empty
 - Adding new columns: Extracting information from the name column
     - bedrooms, beds, baths, reviews: Duplicate the column ->
         - Transform tab -> Extract -> Text between delimiters -> Rename the column [or]
@@ -30,7 +29,6 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
     - reviews - Repeat the same for the star as well
 - Check the data types
 - Remove nulls and blanks
-- Transforming beds and baths to decimal columns from texts
 
 ## Dashboard
 
