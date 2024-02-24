@@ -34,33 +34,7 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 - Remove nulls and blanks
 
 ## Dashboard
-
-## Insights
-
-- The Average Price of the Top 5 and Bottom 5 neighbourhoods. 
-
-The bar chart presents a comparison of the average prices in the top 5 and bottom 5 neighborhoods. It reveals that there is a significant price difference of approximately $200 among the top 5 neighborhoods, whereas the bottom 5 neighborhoods show only slight variations in their average prices.
-
-- The Comparison between the Neighbourhood's Average Price and the Total no of Baths & Beds
-
-The bar chart presents data on the number of beds and baths in different neighborhoods and reveals an interesting trend. Surprisingly, it shows that listings with 1 bath and 1 bed are priced slightly higher than those with 1.5 baths and 1 bed, whereas listings with 2 beds show a gradual increase in price with an increase in the number of baths. This indicates that the relationship between beds, baths, and pricing may not follow a linear pattern, as listings with different bed and bath combinations may have varying pricing structures across neighborhoods.
-
-- Total number of Room Types
-
-The bar chart provides a visual representation of the distribution of room types available on Airbnb in Seattle. The data shows that the majority of room types are entire homes/apartments, accounting for 86.01% of the listings. Private rooms make up 13.85% of the listings, while shared rooms constitute a minimal portion at 0.14%. This suggests that Airbnb in Seattle generates the most revenue from entire home/apartment listings, which are the most prevalent room type.
-
-- Availability in each neighbourhood on Dec 25th
-
-The horizontal chart displays the availability of Airbnb listings in various neighborhoods on December 25th. The University District stands out as the neighborhood with the highest number of available listings, totaling 69 for Christmas bookings. On the other hand, neighborhoods like Roxhill and Harbour Island have considerably fewer Airbnb listings available for booking on that date, indicating limited availability in these areas.
-
-- Average Price for 2022
-
-The highest average prices are observed in July, which corresponds to the summer season in Seattle. This could be attributed to increased demand for bookings during the peak summer vacation period. On the other hand, the lowest average prices are recorded in January, which is the coldest month in Seattle. Interestingly, this trend is consistent for both entire homes/apartments and private rooms. However, when it comes to shared rooms, there is no variation in the average price throughout the year.
-
-- Host residing in the same area as the Airbnb neighbourhood
-
-The Belltown area has the highest number of Airbnb hosts who reside in the neighbourhood, with a total of 22 hosts. In contrast, the East Queen Anne area has a relatively lower number of hosts, with 10 hosts residing in the neighbourhood.
-
-- Top 10 Hosts with the most reviews
-
-Blueground has received the highest number of reviews among all hosts, totalling 5460 reviews. On the other hand, Jian has received the least number of reviews with a total of 270 reviews.
+![NYD_page-0001](https://github.com/karlyndiary/New-York-AirBnB-Dashboard/assets/116041695/440610ce-48e1-44fa-ae9e-f3ea82cb35b5)
+![NYD_page-0002](https://github.com/karlyndiary/New-York-AirBnB-Dashboard/assets/116041695/eaddcfdc-fffe-431c-be5e-8a7ad5b2696b)
+![NYD_page-0003](https://github.com/karlyndiary/New-York-AirBnB-Dashboard/assets/116041695/54e5e046-fca9-47fa-a92e-6b8c497ea48e)
+![NYD_page-0004](https://github.com/karlyndiary/New-York-AirBnB-Dashboard/assets/116041695/1460b8ed-a9c7-410b-b3d3-428c09455cec)
