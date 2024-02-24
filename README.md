@@ -34,7 +34,7 @@ Airbnb is an immensely popular global platform that was established in 2008. It 
 - Remove nulls and blanks
 
 ## Dashboard
-![NYD_page-0001](https://github.com/karlyndiary/New-York-AirBnB-Dashboard/assets/116041695/440610ce-48e1-44fa-ae9e-f3ea82cb35b5)
-![NYD_page-0002](https://github.com/karlyndiary/New-York-AirBnB-Dashboard/assets/116041695/eaddcfdc-fffe-431c-be5e-8a7ad5b2696b)
-![NYD_page-0003](https://github.com/karlyndiary/New-York-AirBnB-Dashboard/assets/116041695/54e5e046-fca9-47fa-a92e-6b8c497ea48e)
-![NYD_page-0004](https://github.com/karlyndiary/New-York-AirBnB-Dashboard/assets/116041695/1460b8ed-a9c7-410b-b3d3-428c09455cec)
+![NYD_page-0001](https://github.com/karlyndiary/New-York-AirBnB-Dashboard/assets/116041695/f02a5410-2598-4489-8de3-a062c72a2a13)
+![NYD_page-0002](https://github.com/karlyndiary/New-York-AirBnB-Dashboard/assets/116041695/e8e0eed9-e8c0-483f-9b6b-7d11a96bf9d9)
+![NYD_page-0003](https://github.com/karlyndiary/New-York-AirBnB-Dashboard/assets/116041695/18cd8028-2191-46de-a41d-f584c9857408)
+![NYD_page-0004](https://github.com/karlyndiary/New-York-AirBnB-Dashboard/assets/116041695/6295d9a8-7852-48f1-9a6b-0d46a1b08fa2)
