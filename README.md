@@ -7,7 +7,10 @@ This is a 2023 analysis of the Airbnb dataset in New York City, providing insigh
 Airbnb is an immensely popular global platform that was established in 2008. It offers individuals the opportunity to rent out their properties, including homes and apartments, to travellers who need accommodation. Hosts have the freedom to list their space, set prices and availability, and directly communicate with potential guests. Travelers, on the other hand, can search for suitable accommodations based on their preferences, location, and budget. This innovative service provides a more affordable and convenient alternative to conventional hotels, while also enabling travelers to experience local communities and neighbourhoods uniquely. With millions of listings in over 220 countries and regions, Airbnb has revolutionized the travel industry.
 
 ## Dataset Source
-Combined three datasets of New York - [http://insideairbnb.com/get-the-data/](http://insideairbnb.com/get-the-data/)
+[Combined three datasets of New York](http://insideairbnb.com/get-the-data/) 
+- Albany, New York, United States
+- New York City, New York, United States
+- Rochester, New York, United States
 
 ## Tool used
 * Microsoft Power BI: Pre-Processing and Data Visualization
